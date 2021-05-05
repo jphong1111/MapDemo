@@ -1,2 +1,2 @@
-# Various_APP
+# Map Demo
 Application with using Google Map and Apple Map
