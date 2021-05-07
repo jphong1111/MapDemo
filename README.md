@@ -1,7 +1,7 @@
 # MapDemo
 Application with using Google Map and Apple Map
 
-## GIF file will show here
+<img src = "https://github.com/jphong1111/MapDemo/blob/master/GithubImages/map.gif" width = "200" height = "410" />
 
 ## Techniques
 - Model-View-ViewModel(MVVM)
